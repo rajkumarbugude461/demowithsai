@@ -1,5 +1,11 @@
 a demo file edited in gitbash
 edited from github
+<<<<<<< HEAD
 swithed to demobranch and edited 
 
 edited again
+=======
+
+
+editing from github again to verify
+>>>>>>> 6f5ca442a8762b8645187429127b85ca04eec4a9
